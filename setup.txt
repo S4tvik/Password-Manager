@@ -1,0 +1,3 @@
+-For this application to run you hav to download MONGO DB database on your system locally.
+-Then run the application, it'll automatically connect to the local database.
+-Source code for this application will be in the Passman.py file.
